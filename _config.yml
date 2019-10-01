@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Hummelflug Modellflugclub Berlin e.V.
+timezone: Europe/Berlin
 collections:
   posts:
     title: Posts
@@ -8,10 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+email: hummelflieger@arcor.de
+description: |-
+  Unser Motto ist „Just for Fun“. Also keinen Stress. Freizeit genießen, fliegen, plaudern, Bierchen, Bratwurst und viel frische Luft.
+
+  Dazu steht uns eine 200 m lange und 80 m breite Landebahn zur Verfügung. Unser Platz liegt in herrlicher grüner Natur. Es stehen Bänke, ein Grillplatz, ein großer Tisch und eine Wasserpumpe zur Verfügung.
+
+  Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
 baseurl: 
 url: 
 twitter_username: jekyllrb
