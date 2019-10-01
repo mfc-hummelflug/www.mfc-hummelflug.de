@@ -1,5 +1,5 @@
 ---
-title: Wir über uns
+title: Über uns
 permalink: "/about/"
 layout: page
 ---

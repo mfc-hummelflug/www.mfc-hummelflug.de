@@ -12,14 +12,17 @@ email: hummelflieger@arcor.de
 description: |-
   Unser Motto ist „Just for Fun“. Also keinen Stress. Freizeit genießen, fliegen, plaudern, Bierchen, Bratwurst und viel frische Luft.
 
-  Dazu steht uns eine 200 m lange und 80 m breite Landebahn zur Verfügung. Unser Platz liegt in herrlicher grüner Natur. Es stehen Bänke, ein Grillplatz, ein großer Tisch und eine Wasserpumpe zur Verfügung.
-
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
-baseurl: 
-url: 
-twitter_username: jekyllrb
-github_username: jekyll
+baseurl:
+url:
 theme: minima
+minima:
+  date_format: "%d.%m.%Y"
+show_excerpts: true
+lang: de
+rss: RSS Feed
+header_pages:
+  - about.markdown
 plugins:
 - jekyll-feed
 exclude:
