@@ -1,6 +1,6 @@
 ---
 title: Wildbienenseminar, 21.09. um 11 Uhr
-date: 2019-09-11 10:47:00 CEST
+date: 2019-09-11 10:47:00 +02:00
 categories:
 - events
 layout: post
