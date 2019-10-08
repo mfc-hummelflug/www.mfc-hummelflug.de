@@ -1,5 +1,6 @@
 ---
-title: Hummelflug Modellflugclub Berlin e.V.
+title: Modellflugclub Berlin e.V.
+author: HUMMELFLUG Modellflugclub Berlin e.V.
 timezone: Europe/Berlin
 collections:
   posts:
@@ -23,6 +24,10 @@ lang: de
 rss: RSS Feed
 header_pages:
   - about.markdown
+  - contact.markdown
+  - flying-field.markdown
+  - calendar.markdown
+  - links.markdown
 plugins:
 - jekyll-feed
 exclude:

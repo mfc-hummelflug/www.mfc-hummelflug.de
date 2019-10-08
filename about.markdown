@@ -1,8 +1,9 @@
 ---
-title: Über uns
-permalink: "/about/"
+title: Der Verein
 layout: page
 ---
+
+## Über uns
 
 **Die Hummel**,
 es gibt jede Menge Arten dieser Insekten aber nur einen **Hummelflugverein**.
@@ -40,3 +41,19 @@ Ein Höhepunkt in der bisherigen Vereinsgeschichte waren am 31.03.2001 die Dreha
 Unser Motto ist „Just for Fun“. Also keinen Stress. Freizeit genießen, fliegen, plaudern, Bierchen, Bratwurst und viel frische Luft.
 Dazu steht uns eine 200 m lange und 80 m breite Landebahn zur Verfügung. Unser Platz liegt in herrlicher grüner Natur. Es stehen Bänke, ein Grillplatz, ein großer Tisch und eine Wasserpumpe zur Verfügung. Falls es mal vom Himmel tröpfelt kann man sich im Container unterstellen. Um uns vor heranfliegenden Tieffliegern zu schützen, trennt ein 2,50 m hoher Zaun die Landebahn vom Vorbereitungsplatz.
 Interessenten sind immer gern gesehen. Anfänger werden meist dicht umlagert, denn denen kann auch noch der „Schlechteste“ Ratschläge geben. Wir helfen beim ersten Start und geben auch **kostenlosen** Flugunterricht.
+
+## Mitgliedsbeitrag
+
+**1. Erwachsene** (Mitglieder ab 18 Jahre)<br>
+Jahresbeitrag 130,- €<br>
+plus einmaliger Aufnamebeitrag 100,- €
+
+**2. Lehrlinge, Schüler, Studenten**<br>
+Jahresbeitrag 70,- €<br>
+plus einmaliger Aufnahmebeitrag 100,- €
+
+**3. Kinder und Schüler** (Mitglieder unter 15 Jahren)<br>
+Jahresbeitrag 60,- €<br>
+kein Aufnahmebeitrag
+
+**In den o.g. Beiträgen ist die Zusatzversicherung Form II (entspr. DMFV) bereits enthalten.**
