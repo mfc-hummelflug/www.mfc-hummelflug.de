@@ -12,6 +12,18 @@ table tr:nth-child(even) {
   background-color: $background-color;
 }
 
+header .wrapper {
+  background-image: url("/assets/logo.png");
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-position-y: 5px;
+  background-position-x: 5px;
+  height: 60px;
+  padding-top: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
 header a.page-link {
   white-space: nowrap;
 }
