@@ -2,3 +2,5 @@ $text-color:       #000;
 $background-color: #87b0dd;
 $brand-color:      #00c;
 $grey-color:       #000;
+$grey-color-dark:  #1f4793;
+$grey-color-light: darken($background-color, 15%);
