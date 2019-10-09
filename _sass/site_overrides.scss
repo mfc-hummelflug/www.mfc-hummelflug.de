@@ -12,6 +12,10 @@ table tr:nth-child(even) {
   background-color: $background-color;
 }
 
+.site-header {
+  background: border-box linear-gradient($grey-color-dark, $grey-color-light);
+}
+
 header .wrapper {
   background-image: url("logo.png");
   background-repeat: no-repeat;
@@ -31,6 +35,14 @@ header a.page-link {
 .page-title-image, .post-title-image {
   float: right;
   padding: 20px;
+}
+
+.page-title-image img, .post-title-image img {
+  border-radius: 3px;
+}
+
+.site-footer {
+  background: border-box linear-gradient($grey-color-light, $grey-color-dark);
 }
 
 .footer-col-wrapper {
