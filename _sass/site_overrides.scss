@@ -9,7 +9,7 @@ table td, table th {
 }
 
 table tr:nth-child(even) {
-  background-color: $background-color;
+  background-color: transparent;
 }
 
 .site-header {
