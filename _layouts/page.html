@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title | escape }}
+      <div class="post-title-image">
+        {%- if page.title_image -%}
+        <img src="{{ page.title_image | relative_url }}" alt="{{ page.title_image_alt | default: page.title }}">
+        {%- endif -%}
+      </div>
+    </h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

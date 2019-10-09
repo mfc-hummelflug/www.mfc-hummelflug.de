@@ -4,7 +4,14 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">
+      {{ page.title }}
+      <div class="page-title-image">
+        {%- if page.title_image -%}
+        <img src="{{ page.title_image | relative_url }}" alt="{{ page.title_image_alt | default: page.title }}">
+        {%- endif -%}
+      </div>
+    </h1>
   {%- endif -%}
 
   {{ content }}

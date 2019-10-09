@@ -28,6 +28,11 @@ header a.page-link {
   white-space: nowrap;
 }
 
+.page-title-image, .post-title-image {
+  float: right;
+  padding: 20px;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.8);
 }
