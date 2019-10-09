@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Impressum
+layout: page
 ---
 
 ## HUMMELFLUG Modellflugclub Berlin e.V.

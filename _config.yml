@@ -1,6 +1,5 @@
 ---
 title: Modellflugclub Berlin e.V.
-author: HUMMELFLUG Modellflugclub Berlin e.V.
 timezone: Europe/Berlin
 collections:
   posts:
@@ -9,13 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+author: HUMMELFLUG Modellflugclub Berlin e.V.
 email: hummelflieger@arcor.de
 description: |-
   Unser Motto ist „Just for Fun“. Also keinen Stress. Freizeit genießen, fliegen, plaudern, Bierchen, Bratwurst und viel frische Luft.
 
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
-baseurl:
-url:
+baseurl: 
+url: 
 theme: minima
 minima:
   date_format: "%d.%m.%Y"
@@ -23,11 +23,11 @@ show_excerpts: true
 lang: de
 rss: RSS Feed
 header_pages:
-  - about.markdown
-  - contact.markdown
-  - flying-field.markdown
-  - calendar.markdown
-  - links.markdown
+- about.markdown
+- contact.markdown
+- flying-field.markdown
+- calendar.markdown
+- links.markdown
 plugins:
 - jekyll-feed
 exclude:

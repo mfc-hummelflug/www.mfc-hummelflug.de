@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Flugplatz
-title_image: /assets/danger.gif
+layout: page
+title_image: "/assets/danger.gif"
 title_image_alt: Danger Hummelpilot
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Datenschutzerklärung
+layout: page
 ---
 
 Datenschutz hat einen besonders hohen Stellenwert für den Modellflugclub Berlin e.V. Hummelflug (MFCBH). Eine Nutzung unserer Internetseiten ist ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Vereins über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Sollte die Verarbeitung personenbezogener Daten notwendig werden und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, wird generell eine Einwilligung zur Datenverarbeitung der betroffenen Person eingeholt.
