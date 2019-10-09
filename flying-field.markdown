@@ -5,23 +5,21 @@ title_image: "/assets/danger.gif"
 title_image_alt: Danger Hummelpilot
 ---
 
-## Wegbeschreibung
+Unser "Hummelflugplatz" befindet sich nördlich von Berlin in 16352 Schönerlinde.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1iKd3rFI7QBPZqYyjEgAF1vErdtI" width="640" height="480"></iframe>
 
-Unser "Hummelflugplatz" befindet sich nördlich von Berlin in 16352 Schönerlinde.
-
 Bitte der B109 (Schönerlinder Straße) in Richtung Wandlitz folgen. In Schönerlinde weiter auf der B109 (biegt rechts ab). An der freien Tankstelle vorbei.
 
-Nach ca. 1000 m liegt rechts eine kleine Siedlung mit einer Baracke die als Bauarbeiterunterkunft genutzt wird. Davor befindet sich eine Bushaltestelle. 20 m dahinter rechts in den Feldweg einbiegen.
+Nach ca. 1000m liegt rechts eine kleine Siedlung mit einer Baracke die als Bauarbeiterunterkunft genutzt wird. Davor befindet sich eine Bushaltestelle. 20m dahinter rechts in den Feldweg einbiegen.
 
 An der Gabelung links abbiegen.
 
-Nach weiteren 40m  rechts in die Einfahrt einbiegen ...  von dort aus ist unser Platz mit dem Windsack (am Waldrand gelegen) auch schon zu sehen.
+Nach weiteren 40m rechts in die Einfahrt einbiegen ...  von dort aus ist unser Platz mit dem Windsack (am Waldrand gelegen) auch schon zu sehen.
 
 Falls der Feldweg nach der Bushaltestelle verpasst wurde: Weiter auf der B109 bis zum Orsteingangsschild Schönwalde. Unmittelbar nach diesem Schild (nur 3m) in den Weg zwischen den Häusern einbiegen ...  Dieser Weg ist bei Regenwetter auch weniger matschig.
 
-[Wegbeschreibung als PDF](/assets/Wegbeschreibung_Hummelflugplatz.pdf)
+[Wegbeschreibung als PDF herunterladen](/assets/Wegbeschreibung_Hummelflugplatz.pdf)
 
 ## Impressionen
 
