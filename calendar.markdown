@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Termine
+title_image: /assets/termine.jpg
 ---
 
 **Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**

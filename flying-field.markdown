@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Flugplatz
+title_image: /assets/danger.gif
+title_image_alt: Danger Hummelpilot
 ---
 
 ## Wegbeschreibung
@@ -28,6 +30,10 @@ Falls der Feldweg nach der Bushaltestelle verpasst wurde: Weiter auf der B109 bi
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jFRU1s3RCNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Auszug aus der Flugplatzordnung
+
+<div class="post-title-image" style="margin-top: -70px;">
+  <img src="{{ '/assets/auszug.jpg' | relative_url }}" alt="Auszug aus der Flugplatzordnung">
+</div>
 
 **(Die komplette Flugplatzordnung befindet sich als Anlage an der Satzung die jedes Mitglied mit dem Aufnahmeantrag erhalten hat.)**
 

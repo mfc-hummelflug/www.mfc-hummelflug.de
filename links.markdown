@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Links
+title_image: /assets/links.jpg
+title_image_alt: Links und Verweise
 ---
 
 **<http://www.flugmodellbau-berlin.de>**:

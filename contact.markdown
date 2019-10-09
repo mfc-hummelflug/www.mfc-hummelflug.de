@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kontakt
+title_image: /assets/kontakt.jpg
 ---
 
 **1. Vorsitzender des MFC Berlin e.V.**

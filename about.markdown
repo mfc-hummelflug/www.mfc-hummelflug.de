@@ -1,6 +1,8 @@
 ---
 title: Der Verein
 layout: page
+title_image: /assets/wirueberuns.jpg
+title_image_alt: Wir über uns
 ---
 
 ## Über uns
@@ -43,6 +45,10 @@ Dazu steht uns eine 200 m lange und 80 m breite Landebahn zur Verfügung. Unser 
 Interessenten sind immer gern gesehen. Anfänger werden meist dicht umlagert, denn denen kann auch noch der „Schlechteste“ Ratschläge geben. Wir helfen beim ersten Start und geben auch **kostenlosen** Flugunterricht.
 
 ## Mitgliedsbeitrag
+
+<div class="post-title-image" style="margin-top: -70px;">
+  <img src="{{ '/assets/mitgliedsbeitrag.jpg' | relative_url }}" alt="Mitgliedsbeitrag">
+</div>
 
 **1. Erwachsene** (Mitglieder ab 18 Jahre)<br>
 Jahresbeitrag 130,- €<br>
