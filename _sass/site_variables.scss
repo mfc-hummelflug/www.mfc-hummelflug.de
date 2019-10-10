@@ -1,6 +1,9 @@
+$blue-base-color:  #81a0d6;
+
+// overrides for variables used in minima theme
 $text-color:       #000;
-$background-color: #87b0dd;
+$background-color: lighten($blue-base-color, 15%);
 $brand-color:      #00c;
 $grey-color:       #000;
-$grey-color-dark:  #1f4793;
-$grey-color-light: darken($background-color, 15%);
+$grey-color-dark:  darken($blue-base-color, 30%);
+$grey-color-light: darken($blue-base-color, 5%);
