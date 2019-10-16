@@ -27,7 +27,6 @@ header_pages:
 - contact.markdown
 - flying-field.markdown
 - calendar.markdown
-- links.markdown
 plugins:
 - jekyll-feed
 exclude:
