@@ -24,7 +24,6 @@ lang: de
 rss: RSS Feed
 header_pages:
 - about.markdown
-- contact.markdown
 - flying-field.markdown
 - calendar.markdown
 plugins:
