@@ -1,0 +1,10 @@
+deploy:
+  provider: pages
+  local_dir: _site
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  committer_from_gh: true
+  project_name: www.mfc-hummelflug.de
+  keep_history: true
+  on:
+    branch: master
