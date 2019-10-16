@@ -15,7 +15,7 @@ description: |-
 
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
 baseurl: "/www.mfc-hummelflug.de"
-url: 
+url:
 theme: minima
 minima:
   date_format: "%d.%m.%Y"
@@ -25,6 +25,7 @@ rss: RSS Feed
 header_pages:
 - about.markdown
 - flying-field.markdown
+- models.markdown
 - calendar.markdown
 plugins:
 - jekyll-feed
