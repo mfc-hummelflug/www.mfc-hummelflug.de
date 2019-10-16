@@ -14,8 +14,8 @@ description: |-
   Unser Motto ist „Just for Fun“. Also keinen Stress. Freizeit genießen, fliegen, plaudern, Bierchen, Bratwurst und viel frische Luft.
 
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
-baseurl: 
-url: 
+baseurl: /www.mfc-hummelflug.de
+url:
 theme: minima
 minima:
   date_format: "%d.%m.%Y"
