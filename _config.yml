@@ -36,8 +36,8 @@ responsive_image:
     - width: 1400
   auto_rotate: true
   strip: true
-  base_path: assets/images
-  output_path_format: assets/images/%{dirname}/%{width}/%{basename}
+  base_path: assets/galleries
+  output_path_format: assets/galleries/%{dirname}/%{width}/%{basename}
   save_to_source: false
 plugins:
 - jekyll-feed
@@ -49,7 +49,7 @@ exclude:
 - ".travis.yml"
 - gemfiles/
 - README.md
-- assets/images/
+- assets/galleries/
 - Gemfile
 - Gemfile.lock
 - node_modules/

@@ -1,0 +1,14 @@
+picture_path: assets/galleries/models
+pictures:
+- original: 20190904_183538.jpg
+  sizes:
+  - 480/20190904_183538.jpg
+  - 800/20190904_183538.jpg
+  - 1400/20190904_183538.jpg
+  title: Die Ultis
+  caption: Tino und Bernd mit Doppeldecker Ultimate von Krill. Aus GFK, 2,45m Spannweite, Motor 110 ccm von 3W mit 12 PS, Abfluggewicht ca. 15 kg.
+- original: 20130102_5.jpg
+  sizes:
+  - 480/20130102_5.jpg
+  title: Scale Heli
+  caption: Willi mit seinem Hughes 500 mit Shark-Mechanik
