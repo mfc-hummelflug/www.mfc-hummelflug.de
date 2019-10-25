@@ -1,4 +1,9 @@
 language: ruby
+branches:
+  only:
+    - master
+cache:
+  bundler: true
 script: bundle exec jekyll build
 deploy:
   provider: pages
