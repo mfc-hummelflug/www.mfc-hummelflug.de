@@ -27,8 +27,21 @@ header_pages:
 - flying-field.markdown
 - models.markdown
 - calendar.markdown
+responsive_image:
+  template: _includes/responsive-image.html
+  default_quality: 90
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+  auto_rotate: true
+  strip: true
+  base_path: assets/images
+  output_path_format: assets/images/%{dirname}/%{width}/%{basename}
+  save_to_source: false
 plugins:
 - jekyll-feed
+- jekyll-responsive-image
 exclude:
 - ".rvmrc"
 - ".sass-cache/"
@@ -36,6 +49,7 @@ exclude:
 - ".travis.yml"
 - gemfiles/
 - README.md
+- assets/images/
 - Gemfile
 - Gemfile.lock
 - node_modules/
