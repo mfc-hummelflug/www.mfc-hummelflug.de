@@ -31,8 +31,9 @@ responsive_image:
   template: _includes/responsive-image.html
   default_quality: 90
   sizes:
-    - width: 480
-    - width: 800
+    - width: 364
+    - width: 530
+    - width: 740
     - width: 1400
   auto_rotate: true
   strip: true
