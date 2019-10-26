@@ -15,7 +15,7 @@ description: |-
 
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
 baseurl: "/www.mfc-hummelflug.de"
-url:
+url: 
 theme: minima
 minima:
   date_format: "%d.%m.%Y"
@@ -31,10 +31,10 @@ responsive_image:
   template: _includes/responsive-image.html
   default_quality: 90
   sizes:
-    - width: 364
-    - width: 530
-    - width: 740
-    - width: 1400
+  - width: 364
+  - width: 530
+  - width: 740
+  - width: 1400
   auto_rotate: true
   strip: true
   base_path: assets/galleries
