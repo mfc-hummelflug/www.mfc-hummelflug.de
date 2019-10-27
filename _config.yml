@@ -1,6 +1,5 @@
 ---
 title: Modellflugclub Berlin e.V.
-motto: In der Natur – Mit der Natur – Für die Natur
 timezone: Europe/Berlin
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+motto: In der Natur – Mit der Natur – Für die Natur
 author: HUMMELFLUG Modellflugclub Berlin e.V.
 email: hummelflieger@arcor.de
 description: |-
