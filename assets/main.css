@@ -216,8 +216,9 @@ table tr:nth-child(even) { background-color: transparent; }
 .site-header { background: border-box linear-gradient(#2f528f, #6e91d0); }
 
 header .wrapper { background-image: url("logo.png"); background-repeat: no-repeat; background-origin: border-box; background-position-y: 5px; background-position-x: 5px; height: 60px; padding-top: 100px; padding-left: 150px; padding-right: 150px; }
-
-header .site-title { font-weight: 600; }
+header .wrapper .site-title { font-weight: 600; line-height: 24px; }
+header .wrapper .site-title a, header .wrapper .site-title a:visited { display: block; color: #264374; }
+header .wrapper .site-title .site-motto { font-weight: 400; font-size: 17.6px; }
 
 header a.page-link { white-space: nowrap; }
 
