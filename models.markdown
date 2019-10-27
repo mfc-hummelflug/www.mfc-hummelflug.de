@@ -15,7 +15,8 @@ gallery:
       PSG mit 5 kW Powerantrieb, beide elektrisch
   - basename: Me262.jpeg
     title: Me-262
-    caption: Me-262 mit 3,20m Spannweite, knapp 25kg, 2 Schübeler Impeller mit je 90N
+    caption: Me-262 mit 3,20m Spannweite, knapp 25kg, 2 Schübeler Impeller mit je
+      90N
   - basename: 20100512_37.jpg
     title: Großsegler
   - basename: DSCF8084.JPG
