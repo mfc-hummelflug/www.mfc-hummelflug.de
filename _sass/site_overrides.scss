@@ -26,10 +26,21 @@ header .wrapper {
   padding-top: 100px;
   padding-left: 150px;
   padding-right: 150px;
-}
 
-header .site-title {
-  font-weight: 600;
+  .site-title {
+    font-weight: 600;
+    line-height: $base-line-height * $base-font-size;
+
+    a, a:visited {
+      display: block;
+      color: darken($grey-color-dark, 7%);
+    }
+
+    .site-motto {
+      font-weight: 400;
+      @include relative-font-size(1.1);
+    }
+  }
 }
 
 header a.page-link {
