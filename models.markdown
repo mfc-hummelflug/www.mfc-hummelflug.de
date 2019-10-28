@@ -32,7 +32,7 @@ gallery:
     caption: Willi schleppt mit seiner Wilga (mit E-Antrieb) einen Segler in den Himmel.
   - basename: DSC_0098_1.JPG
     title: Scale Heli
-    caption: Für die Luftrettung ist dank dem Eurocoper EC 135 gesorgt.
+    caption: Für die Luftrettung ist dank dem Eurocopter EC 135 gesorgt.
   - basename: D50_9476.jpg
     title: Das Kraftei
     caption: Willi mit seinem "Kraftei" mit Impeller Antrieb
