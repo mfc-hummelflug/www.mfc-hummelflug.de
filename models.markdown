@@ -30,6 +30,13 @@ gallery:
   - basename: D50_9739.jpg
     title: Segler im Schlepp
     caption: Willi schleppt mit seiner Wilga (mit E-Antrieb) einen Segler in den Himmel.
+  - basename: Wilga.JPG
+    title: Der Allesschlepper
+    caption:  Wilga mit 3m Spannweite, Plettenberg Elektroantrieb, Gewicht ca. 12 kg
+  - basename: FlugF20.jpg
+    title: F20 Jet
+    caption:  F20 von Fantastic Jets, Spannweite 1,30m, Schübeler Impeller mit 100N Schub,
+      Gewicht ca. 11,5kg
   - basename: DSC_0098_1.JPG
     title: Scale Heli
     caption: Für die Luftrettung ist dank dem Eurocopter EC 135 gesorgt.
