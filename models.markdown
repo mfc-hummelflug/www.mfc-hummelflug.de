@@ -19,8 +19,8 @@ gallery:
       90N
   - basename: IMG_3152.JPG
     title: Großsegler mit FES Antrieb
-    caption: Dietmars ASH 31 mi, 7m Spannweite, 18 kg, mit FES und
-      Einziehfahrwerk, der Pilot ist dem Besitzer wie aus dem Gesicht geschnitten.
+    caption: Dietmars ASH 31 mi, 7m Spannweite, 18 kg, mit FES und Einziehfahrwerk,
+      der Pilot ist dem Besitzer wie aus dem Gesicht geschnitten.
   - basename: DSCF8084.JPG
     title: Impeller Jet
     caption: Willi mit seinem Impeller Jet von CARF
@@ -36,7 +36,7 @@ gallery:
     title: Der Allesschlepper
     caption: Wilga mit 3m Spannweite, Plettenberg Elektroantrieb, Gewicht ca. 12 kg
   - basename: 20190614_142225.jpg
-    title:  Elektrosegler
+    title: Elektrosegler
     caption: Dietmars ASW 17, 4,44m Spannweite, 5,4kg mit ausfahrbarem Jetec-Impeller
   - basename: FlugF20.jpg
     title: F20 Jet
