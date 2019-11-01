@@ -17,8 +17,10 @@ gallery:
     title: Me-262
     caption: Me-262 mit 3,20m Spannweite, knapp 25kg, 2 Schübeler Impeller mit je
       90N
-  - basename: 20100512_37.jpg
-    title: Großsegler
+  - basename: IMG_3152.JPG
+    title: Großsegler mit FES Antrieb
+    caption: Dietmars ASH 31 mi, 7m Spannweite, 18 kg, mit FES und
+      Einziehfahrwerk, der Pilot ist dem Besitzer wie aus dem Gesicht geschnitten.
   - basename: DSCF8084.JPG
     title: Impeller Jet
     caption: Willi mit seinem Impeller Jet von CARF
@@ -33,6 +35,9 @@ gallery:
   - basename: Wilga.JPG
     title: Der Allesschlepper
     caption: Wilga mit 3m Spannweite, Plettenberg Elektroantrieb, Gewicht ca. 12 kg
+  - basename: 20190614_142225.jpg
+    title:  Elektrosegler
+    caption: Dietmars ASW 17, 4,44m Spannweite, 5,4kg mit ausfahrbarem Jetec-Impeller
   - basename: FlugF20.jpg
     title: F20 Jet
     caption: F20 von Fantastic Jets, Spannweite 1,30m, Schübeler Impeller mit 100N
@@ -40,6 +45,9 @@ gallery:
   - basename: DSC_0098_1.JPG
     title: Scale Heli
     caption: Für die Luftrettung ist dank dem Eurocopter EC 135 gesorgt.
+  - basename: 20171017_150249.jpg
+    title: F3B Hotliner
+    caption: Dietmars Attacko 2,5m Spannweite, 2,4kg, 4S Antrieb
   - basename: D50_9476.jpg
     title: Das Kraftei
     caption: Willi mit seinem "Kraftei" mit Impeller Antrieb
