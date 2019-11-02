@@ -11,8 +11,8 @@ gallery:
   - basename: IMG_4641.JPG
     title: 3D Helis
     caption: Zwei 3D Helis aus Martins Kollektion, links ein klassischer Henseleit
-      TDR, Baujahr 2011 mit moderaten 3 kW Antriebsleitung und rechts ein Zenyt von
-      PSG mit 5 kW Powerantrieb, beide elektrisch
+      TDR, Baujahr 2011 mit moderaten 3 kW Antriebsleitung und rechts ein moderner
+      Zenyt von PSG mit 5 kW Powerantrieb, beide elektrisch
   - basename: Me262.jpeg
     title: Me-262
     caption: Me-262 mit 3,20m Spannweite, knapp 25kg, 2 Schübeler Impeller mit je
@@ -42,9 +42,9 @@ gallery:
     title: F20 Jet
     caption: F20 von Fantastic Jets, Spannweite 1,30m, Schübeler Impeller mit 100N
       Schub, Gewicht ca. 11,5kg
-  - basename: DSC_0098_1.JPG
+  - basename: P1090531.JPG
     title: Scale Heli
-    caption: Für die Luftrettung ist dank dem Eurocopter EC 135 gesorgt.
+    caption: Michas EC-635 Scale Heli mit 2m Rotorkreis, 17,5kg, Antrieb Hacker Q80 7kw, 12S
   - basename: 20171017_150249.jpg
     title: F3B Hotliner
     caption: Dietmars Attacko 2,5m Spannweite, 2,4kg, 4S Antrieb
@@ -64,6 +64,17 @@ gallery:
     title: Victor im Landeanflug
     caption: Uwes ferngesteuerter Fallschirmspringer "Victor" kann in die Hand gelandet
       werden.
+  - basename: jago1ulti.jpg
+    title: Vom Design zum fertigen Modell
+    caption: Die Designvorlage nach der die Folien gefertigt wurden und das
+      fertige Ultimate Modell, dem Original zum Verwechseln ähnlich
+  - basename: 20191030_123922_resized.jpg
+    title: B 17 Bomber
+    caption: Spannweite 1870mm, Abfluggewicht 3,2 kg, 4 Elektromotoren 3 Blatt Propeller
+  - basename: DSC_0027.JPG
+    title: Laser von Krill
+    caption: Der stolze Besitzer Bernd mit seiner 2,80m Laser, 157 ccm 3W-Motor,
+      16 PS, Abfluggewicht 15,5 kg
   - basename: P1012626.JPG
     title: Velox
     caption: Gerd mit seiner Velox aus Holz von Orionmodellbau, Spannweite 2,60m,
