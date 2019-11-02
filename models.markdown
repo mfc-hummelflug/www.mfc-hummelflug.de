@@ -44,7 +44,8 @@ gallery:
       Schub, Gewicht ca. 11,5kg
   - basename: P1090531.JPG
     title: Scale Heli
-    caption: Michas EC-635 Scale Heli mit 2m Rotorkreis, 17,5kg, Antrieb Hacker Q80 7kw, 12S
+    caption: Michas EC-635 Scale Heli mit 2m Rotorkreis, 17,5kg, Antrieb Hacker Q80
+      7kw, 12S
   - basename: 20171017_150249.jpg
     title: F3B Hotliner
     caption: Dietmars Attacko 2,5m Spannweite, 2,4kg, 4S Antrieb
@@ -66,15 +67,15 @@ gallery:
       werden.
   - basename: jago1ulti.jpg
     title: Vom Design zum fertigen Modell
-    caption: Die Designvorlage nach der die Folien gefertigt wurden und das
-      fertige Ultimate Modell, dem Original zum Verwechseln ähnlich
+    caption: Die Designvorlage nach der die Folien gefertigt wurden und das fertige
+      Ultimate Modell, dem Original zum Verwechseln ähnlich
   - basename: 20191030_123922_resized.jpg
     title: B 17 Bomber
     caption: Spannweite 1870mm, Abfluggewicht 3,2 kg, 4 Elektromotoren 3 Blatt Propeller
   - basename: DSC_0027.JPG
     title: Laser von Krill
-    caption: Der stolze Besitzer Bernd mit seiner 2,80m Laser, 157 ccm 3W-Motor,
-      16 PS, Abfluggewicht 15,5 kg
+    caption: Der stolze Besitzer Bernd mit seiner 2,80m Laser, 157 ccm 3W-Motor, 16
+      PS, Abfluggewicht 15,5 kg
   - basename: P1012626.JPG
     title: Velox
     caption: Gerd mit seiner Velox aus Holz von Orionmodellbau, Spannweite 2,60m,
