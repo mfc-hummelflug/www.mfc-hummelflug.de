@@ -4,7 +4,7 @@
 
 Static site builder: <http://www.mfc-hummelflug.de>
 
-Inhalte können auch via Siteleaf geplegt werden:
+Inhalte können auch via Siteleaf gepflegt werden:
 <https://manage.siteleaf.com/sites/5da726ec9b787b7c87c0743e/pages>
 
 ## Lizenz für redaktionelle Inhalte und Bilder
