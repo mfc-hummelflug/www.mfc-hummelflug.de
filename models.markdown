@@ -35,8 +35,8 @@ gallery:
       gebaut. 1,5m Spannweite, 2,6kg, Saito Viertakt Motor mit 6,6 ccm
   - basename: D50_2775 Kopie.jpg
     title: Fairchild-Republic A-10 Thunderbolt II
-    caption: Udos A-10 mit 1,7m Spannweite, 6 kg, Material EPO,  2x 80 mm EDF, 12 S,
-      Einziehfahrwerk, Beleuchtung, aufwändige Lackierung, 12 Servos
+    caption: Udos A-10 mit 1,7m Spannweite, 6 kg, Material EPO,  2x 80 mm EDF, 12
+      S, Einziehfahrwerk, Beleuchtung, aufwändige Lackierung, 12 Servos
   - basename: D50_9739.jpg
     title: Segler im Schlepp
     caption: Willi schleppt mit seiner Wilga (mit E-Antrieb) einen Segler in den Himmel.
