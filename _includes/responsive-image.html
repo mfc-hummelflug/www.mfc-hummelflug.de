@@ -6,13 +6,21 @@
 {% endfor %}
 {% endcapture %}
 
-{% case mode %}
-  {% when "gallery" %}
-    <a href="{{ site.baseurl }}/{{ largest.path }}"
-       data-srcset="{{ srcset | strip_newlines }}" class="image"
-    {% if alt %} data-sub-html="<div class='caption'><h4>{{ alt | escape }}</h4>{% if title %}<p>{{ title | escape }}</p>{% endif %}</div>"{% endif %}>
-    <img alt="{{ alt | escape }}" title="{{ title | default: alt | escape }}" src="{{ site.baseurl }}/{{ smallest.path }}" />
-    </a>
-  {% else %}
-    <img src="{{ site.baseurl }}/{{ largest.path }}" alt="{{ alt | escpae }}" srcset="{{ srcset | strip_newlines }}">
-{% endcase %}
+{%- case mode -%}
+  {%- when "gallery" -%}
+  <a href="{{ site.baseurl }}/{{ largest.path }}"
+     data-srcset="{{ srcset | strip_newlines }}" class="image"
+  {% if alt %} data-sub-html="<div class='caption'><h4>{{ alt | escape }}</h4>{% if title %}<p>{{ title | escape }}</p>{% endif %}</div>"{% endif %}>
+  <img alt="{{ alt | escape }}" title="{{ title | default: alt | escape }}" src="{{ site.baseurl }}/{{ smallest.path }}" />
+  </a>
+  {%- else -%}
+  <img class="responsive-image" src="{{ site.baseurl }}/{{ largest.path }}" alt="{{ alt | escpae }}" srcset="{{ srcset | strip_newlines }}" />
+  {% if alt %}
+  <div class="responsive-image caption">
+    <h4>{{ alt | escape }}</h4>
+    {%- if title -%}
+    <p>{{ title | escape }}</p>
+    {%- endif -%}
+  </div>
+  {% endif %}
+{%- endcase -%}

@@ -64,6 +64,23 @@ header a.page-link {
   border-radius: 3px;
 }
 
+.responsive-image.caption {
+  margin-top: -15px;
+  margin-bottom: 15px;
+  background-color: rgba(0, 0, 0, .45);
+  text-align: center;
+
+  h4 {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+  }
+
+  p {
+    font-size: 12px;
+  }
+}
+
 .site-footer {
   background: border-box linear-gradient($grey-color-light, $grey-color-dark);
 }
