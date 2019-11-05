@@ -19,7 +19,7 @@ gallery:
 
 Die wichtigsten Fakten zu unserem Hummelflugplatz:
 
-* feinste gepflegte Gras Start- und Landebahn, 240m lang und 100m breit
+* feinste gepflegte Start- und Landebahn auf Rasen, 240m lang und 100m breit
 * ringsum ein 2m breiter, hochgewachsener Bremsstreifen (hohes Gras)
 * kniehoher Elektrozaun gegen Wildschweine und sonstiges Wild, keine Maulwürfe
 * die Sonne im Rücken
@@ -28,12 +28,12 @@ Die wichtigsten Fakten zu unserem Hummelflugplatz:
 * Grilltisch mit Bänken
 * zahlreiche Bänke für Gäste und interessierte Zuschauer
 * Brunnen mit Pumpe, Tränke für Hunde und Vögel
-* große Vorbereitungsfläche, Parkplätze für ca. 50 PKW
+* große Vorbereitungsfläche, Parkfläche für ca. 50 PKW
 * Aufstiegserlaubnis bis 25 kg
 * Flugbetrieb von Sonnenaufgang bis Sonnenuntergang, keine Mittagspause
-* Lärmpegel bis 82 db
+* Lärmpegel bis 82 dB
 * nette Vereinsmitglieder von 8 bis über 80 Jahre alt
-* Kunstflugmodelle mit Verbrenner und E-Antrieb, Schaumwaffeln, Segler, F-Schlepp, Hubschrauber, Drohnen, Jets und alles was sonst noch fliegen kann
+* Kunstflugmodelle mit Verbrenner und E-Antrieb, Schaumwaffeln, Segler, F-Schlepp, Hubschrauber, Multicopter, Jets und alles was sonst noch fliegen kann
 * kein Wettbewerbsstress, einfach „just for fun“ und nettes Zusammensein
 
 {% include gallery.html gallery=page.gallery %}
@@ -46,25 +46,19 @@ Unser "Hummelflugplatz" befindet sich nördlich von Berlin in 16352 Schönerlind
 
 Bitte der B109 (Schönerlinder Straße) in Richtung Wandlitz folgen. In Schönerlinde weiter auf der B109 (biegt rechts ab). An der freien Tankstelle vorbei.
 
-Nach ca. 1000m liegt rechts eine kleine Siedlung mit einer Baracke die als Bauarbeiterunterkunft genutzt wird. Davor befindet sich eine Bushaltestelle. 20m dahinter rechts in den Feldweg einbiegen.
-
-An der Gabelung links abbiegen.
-
-Nach weiteren 40m rechts in die Einfahrt einbiegen ...  von dort aus ist unser Platz mit dem Windsack (am Waldrand gelegen) auch schon zu sehen.
-
-Falls der Feldweg nach der Bushaltestelle verpasst wurde: Weiter auf der B109 bis zum Orsteingangsschild Schönwalde. Unmittelbar nach diesem Schild (nur 3m) in den Weg zwischen den Häusern einbiegen ...  Dieser Weg ist bei Regenwetter auch weniger matschig.
+Nach ca. 1000m liegt rechts eine kleine Siedlung. 20m hinter der Bushaltestelle rechts in den Feldweg einbiegen und diesem folgen. An der offenen Schranke wieder rechts abbiegen, noch ein kurzes Stück und dann ist unser Platz mit dem Windsack (am Waldrand gelegen) auch schon zu sehen.
 
 [Wegbeschreibung als PDF herunterladen](/assets/Wegbeschreibung_Hummelflugplatz.pdf)
 
 ## Besucher und Gastflieger
 
-Wir freuen uns immer über interessierten Besuch, auch das Fliegen als Gast ist möglich wenn
+Wir freuen uns immer über interessierten Besuch, auch das Fliegen als Gast ist möglich, wenn
 ein paar Dinge beachtet werden:
 
-* Der Pilot muss eine Modell-Haftpflichtversicherung haben und einen entsprechenden Nachweis mit sich führen
-* 3 EUR Kostenbeitrag sind zu entrichten
+* Der Pilot muss eine Modell-Haftpflichtversicherung haben und einen entsprechenden Nachweis mit sich führen.
+* 3 EUR Kostenbeitrag sind vor Ort zu entrichten.
 * Das Gastfliegen dient zum Kennenlernen des Platzes, nicht als
-  "Dauerzustand". Wiederholtes fliegen ist den Vereinsmitgliedern vorbehalten.
+  "Dauerzustand". Wiederholtes Fliegen ist den Vereinsmitgliedern vorbehalten.
 * Die Flugplatzordnung, die am Platz aushängt, muss eingehalten werden.
 
 Alle weiteren Fragen zum Gastfliegen oder zur Mitgliedschaft beantwortet unser
@@ -95,9 +89,9 @@ Damit sind nur Extremschalldämpfer mit mindesten zwei Kammern bei uns zugelasse
 
 > **13)** Der Erlaubnisinhaber hat unter den in der vom Luftfahrtsamt veröffentlichen Lärmvorschrift für Luftfahrzeuge genannten Messbedingungen (bei uns 82db in 25 m Entfernung) jedes eingesetzte Flugmodell mit Verbrennungsmotor zu vermessen und über die Messung ein Messprotokoll (Lärmpass) anzulegen. Die Messung ist zu wiederholen, wenn am Flugmodell wesentliche für die Geräuschentwicklung relevanten Veränderungen vorgenommen werden (Verwendung einer anderen Luftschraube usw.). Mit der Ausfertigung dieses Messprotokolls erfolgt auch die techn. Abnahme des Modells durch den verantwortlichen Messbeauftragten. Die Messprotokolle sind bei dem Betrieb der Flugmodelle mitzuführen.
 
-Zur Schallminimierung gehört natürlich auch der entsprechende Flugstil. Es muss nicht ständig Vollgas sein!
+Zur Schallminimierung gehört natürlich auch der entsprechende Flugstil. Es muss nicht ständig Vollgas sein.
 Es sollte auch vermieden werden in großer Höhe und in Richtung Siedlung zu fliegen.
 Diese Festlegungen erscheinen vielleicht dem einen oder andern überzogen zu sein.
-Die Nähe der Siedlungen Schönerlinde und Schönwalde lassen uns keine andere Wahl. Selbst wenn wir uns im Rahmen der Gesetzlichkeiten bewegen, macht es keinen Sinn sich mit den Anwohnern, der Gemeindevertretung oder dem Ordnungsamt anzulegen. Besser ist es die Anwohner für unser Hobby zu gewinnen und vielleicht sogar ihren Kindern eine sinnvolle Freizeitbeschäftigung in unserem Modellflugklub zu bieten. Dann ist auch unser schöner Modellflugplatz für die nächsten Jahre gesichert.
+Die Nähe der Siedlungen Schönerlinde und Schönwalde lassen uns allerdings keine andere Wahl. Selbst wenn wir uns im Rahmen der Gesetzlichkeiten bewegen, macht es keinen Sinn sich mit den Anwohnern, der Gemeindevertretung oder dem Ordnungsamt anzulegen. Besser ist es die Anwohner für unser Hobby zu gewinnen und vielleicht sogar ihren Kindern eine sinnvolle Freizeitbeschäftigung in unserem Modellflugklub zu bieten. Dann ist auch unser schöner Modellflugplatz für die nächsten Jahre gesichert.
 
 **Die komplette Flugplatzordnung befindet sich als Anlage an der Satzung die jedes Mitglied mit dem Aufnahmeantrag erhalten hat.**
