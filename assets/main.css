@@ -229,6 +229,10 @@ header a.page-link { white-space: nowrap; }
 
 .page-title-image img, .post-title-image img { border-radius: 3px; }
 
+.responsive-image.caption { margin-top: -15px; margin-bottom: 15px; background-color: rgba(0, 0, 0, 0.45); text-align: center; }
+.responsive-image.caption h4 { margin: 0; font-size: 13px; font-weight: 700; }
+.responsive-image.caption p { font-size: 12px; }
+
 .site-footer { background: border-box linear-gradient(#6e91d0, #2f528f); }
 
 .footer-col-wrapper { font-size: 12.8px; }
