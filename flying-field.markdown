@@ -29,10 +29,6 @@ Falls der Feldweg nach der Bushaltestelle verpasst wurde: Weiter auf der B109 bi
 
 ## Auszug aus der Flugplatzordnung
 
-<div class="post-title-image" style="margin-top: -70px;">
-  <img src="{{ '/assets/auszug.jpg' | relative_url }}" alt="Auszug aus der Flugplatzordnung">
-</div>
-
 **(Die komplette Flugplatzordnung befindet sich als Anlage an der Satzung die jedes Mitglied mit dem Aufnahmeantrag erhalten hat.)**
 
 Unser Modellflugplatz befindet sich inmitten einer sehr schönen Natur und nicht weit entfernt von zwei Siedlungen.
