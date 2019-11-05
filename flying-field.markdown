@@ -1,9 +1,44 @@
 ---
 title: Flugplatz
-layout: page
+layout: gallery
 title_image: "/assets/danger.gif"
 title_image_alt: Danger Hummelpilot
+gallery:
+  path: assets/galleries/flying-field
+  pictures:
+  - basename: 20190611_132215_resized.jpg
+    title: Eingang
+  - basename: 20190806_104551_resized.jpg
+    title: Grillplatz, Parkplätze, Vorbereitungsfläche, etc.
+  - basename: 20190806_104257_resized.jpg
+    title: Platzordnung muss sein
+  - basename: 20190806_105715_resized.jpg
+    title: Blick über den Platz
+    caption: Im Vordergrund ist der Bremsstreifen mit höherem Gras erkennbar.
 ---
+
+Die wichtigsten Fakten zu unserem Hummelflugplatz:
+
+* feinste gepflegte Gras Start- und Landebahn, 240m lang und 100m breit
+* ringsum ein 2m breiter, hochgewachsener Bremsstreifen (hohes Gras)
+* kniehoher Elektrozaun gegen Wildschweine und sonstiges Wild, keine Maulwürfe
+* die Sonne im Rücken
+* Parkplätze im Schatten unter Bäumen
+* zwei Montagetische
+* Grilltisch mit Bänken
+* zahlreiche Bänke für Gäste und interessierte Zuschauer
+* Brunnen mit Pumpe, Tränke für Hunde und Vögel
+* große Vorbereitungsfläche, Parkplätze für ca. 50 PKW
+* Aufstiegserlaubnis bis 25 kg
+* Flugbetrieb von Sonnenaufgang bis Sonnenuntergang, keine Mittagspause
+* Lärmpegel bis 82 db
+* nette Vereinsmitglieder von 8 bis über 80 Jahre alt
+* Kunstflugmodelle mit Verbrenner und E-Antrieb, Schaumwaffeln, Segler, F-Schlepp, Hubschrauber, Drohnen, Jets und alles was sonst noch fliegen kann
+* kein Wettbewerbsstress, einfach „just for fun“ und nettes Zusammensein
+
+{% include gallery.html gallery=page.gallery %}
+
+## Anfahrt aus Berlin
 
 Unser "Hummelflugplatz" befindet sich nördlich von Berlin in 16352 Schönerlinde.
 
@@ -21,23 +56,36 @@ Falls der Feldweg nach der Bushaltestelle verpasst wurde: Weiter auf der B109 bi
 
 [Wegbeschreibung als PDF herunterladen](/assets/Wegbeschreibung_Hummelflugplatz.pdf)
 
-## Impressionen
+## Besucher und Gastflieger
+
+Wir freuen uns immer über interessierten Besuch, auch das Fliegen als Gast ist möglich wenn
+ein paar Dinge beachtet werden:
+
+* Der Pilot muss eine Modell-Haftpflichtversicherung haben und einen entsprechenden Nachweis mit sich führen
+* 3 EUR Kostenbeitrag sind zu entrichten
+* Das Gastfliegen dient zum Kennenlernen des Platzes, nicht als
+  "Dauerzustand". Wiederholtes fliegen ist den Vereinsmitgliedern vorbehalten.
+* Die Flugplatzordnung, die am Platz aushängt, muss eingehalten werden.
+
+Alle weiteren Fragen zum Gastfliegen oder zur Mitgliedschaft beantwortet unser
+[1. Vorsitzender Bernd Petzold]({{ '/contact.html' | relative_url }}) sehr gerne.
+
+## Luftaufnahmen
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DrI8SeJC5Zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jFRU1s3RCNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Auszug aus der Flugplatzordnung
+## Lärmschutz
 
-**(Die komplette Flugplatzordnung befindet sich als Anlage an der Satzung die jedes Mitglied mit dem Aufnahmeantrag erhalten hat.)**
+Unser Modellflugplatz befindet sich inmitten sehr schöner Natur und ist nicht
+weit entfernt von zwei Siedlungen.  Wir möchten als gute Nachbarn und Botschafter
+für unser schönes Hobby weder Anwohner noch Behörden verärgern.
 
-Unser Modellflugplatz befindet sich inmitten einer sehr schönen Natur und nicht weit entfernt von zwei Siedlungen.
-Es hat leider in der Vergangenheit immer wieder Beschwerden von Anwohnern über eine Lärmbelästigung durch unseren Flugmodellsport gegeben. Das schadet unserem Image und führt zur Verärgerung der Anwohner und div. Behörden. Das muss nicht sein!
+**Daher unser Grundsatz:<br>
+"Nicht nur so leise wie nötig, sondern so leise wie möglich."**
 
-**Daher unser Grundsatz**<br>
-"Nicht nur so leise wie nötig, sondern so leise wie möglich."
-
-Das heisst: Auch wenn ein Modell den Lärmvorschriften entspricht, es aber weitere technische Möglichkeiten zur Lärmreduzierung gibt (z.B.Verwendung modernster Schalldämpfer, Einsatz einer leiseren und damit größeren Luftschraube, geringere Drehzahlen, Einbau von Schwinggummis zwischen Motor und Modell, keine Berührung des Motors mit der Haube, keine losen und klappernden Teile usw.), sind diese anzuwenden.
+Das heisst: Auch wenn ein Modell den Lärmvorschriften entspricht, es aber weitere technische Möglichkeiten zur Lärmreduzierung gibt (z.B. Verwendung modernster Schalldämpfer, Einsatz einer leiseren und damit größeren Luftschraube, geringere Drehzahlen, Einbau von Schwinggummis zwischen Motor und Modell, keine Berührung des Motors mit der Haube, keine losen und klappernden Teile usw.), sind diese anzuwenden.
 
 Entsprechend der Grundsätze des Bundes und der Länder für die Erteilung der Erlaubnis zum Aufstieg von Flugmodellen gemäß § 15a LuftVO vom 13.02.2006 ist in unserer Flugplatzordnung u.a. festgelegt:
 
@@ -51,3 +99,5 @@ Zur Schallminimierung gehört natürlich auch der entsprechende Flugstil. Es mus
 Es sollte auch vermieden werden in großer Höhe und in Richtung Siedlung zu fliegen.
 Diese Festlegungen erscheinen vielleicht dem einen oder andern überzogen zu sein.
 Die Nähe der Siedlungen Schönerlinde und Schönwalde lassen uns keine andere Wahl. Selbst wenn wir uns im Rahmen der Gesetzlichkeiten bewegen, macht es keinen Sinn sich mit den Anwohnern, der Gemeindevertretung oder dem Ordnungsamt anzulegen. Besser ist es die Anwohner für unser Hobby zu gewinnen und vielleicht sogar ihren Kindern eine sinnvolle Freizeitbeschäftigung in unserem Modellflugklub zu bieten. Dann ist auch unser schöner Modellflugplatz für die nächsten Jahre gesichert.
+
+**Die komplette Flugplatzordnung befindet sich als Anlage an der Satzung die jedes Mitglied mit dem Aufnahmeantrag erhalten hat.**
