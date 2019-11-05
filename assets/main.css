@@ -223,6 +223,7 @@ header .wrapper .site-title .site-motto { font-weight: 400; font-size: 17.6px; }
 header a.page-link { white-space: nowrap; }
 
 .page-content { background-image: url("clouds.png"); }
+.page-content h2 { margin-top: 30px; }
 
 .page-title-image, .post-title-image { float: right; padding: 20px; }
 
