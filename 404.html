@@ -20,6 +20,19 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Diese Seite existiert leider nicht :(</strong></p>
+  <p>Vielleicht ist können wir Sie stattdessen für eine der folgenden Seiten begeistern?</p>
+  <nav>
+    <p><a class="page-link" href="{{ 'indexn.html' | relative_url }}">Startseite</a></p>
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- if page_paths -%}
+      {%- for path in page_paths -%}
+        {%- assign my_page = site.pages | where: "path", path | first -%}
+        {%- if my_page.title -%}
+        <p><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></p>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  </nav>
 </div>
