@@ -33,14 +33,14 @@ Die wichtigsten Fakten zu unserem Hummelflugplatz:
 * Flugbetrieb von Sonnenaufgang bis Sonnenuntergang, keine Mittagspause
 * Lärmpegel bis 82 dB
 * nette Vereinsmitglieder von 8 bis über 80 Jahre alt
-* Kunstflugmodelle mit Verbrenner und E-Antrieb, Schaumwaffeln, Segler, F-Schlepp, Hubschrauber, Multicopter, Jets und alles was sonst noch fliegen kann
+* Kunstflugmodelle mit Verbrenner und E-Antrieb, Schaumwaffeln, Segler, F-Schlepp, Hubschrauber, Multicopter, Jets und alles was sonst noch fliegen kann (einen Eindruck vermittelt [unsere Modellgalerie]({{ '/models.html' | relative_url }}))
 * kein Wettbewerbsstress, einfach „just for fun“ und nettes Zusammensein
 
 {% include gallery.html gallery=page.gallery %}
 
 ## Anfahrt aus Berlin
 
-Unser "Hummelflugplatz" befindet sich nördlich von Berlin in 16352 Schönerlinde.
+Der Hummelflugplatz befindet sich nördlich von Berlin in 16352 Schönerlinde.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1iKd3rFI7QBPZqYyjEgAF1vErdtI" width="640" height="480"></iframe>
 
@@ -48,7 +48,7 @@ Bitte der B109 (Schönerlinder Straße) in Richtung Wandlitz folgen. In Schöner
 
 Nach ca. 1000m liegt rechts eine kleine Siedlung. 20m hinter der Bushaltestelle rechts in den Feldweg einbiegen und diesem folgen. An der offenen Schranke wieder rechts abbiegen, noch ein kurzes Stück und dann ist unser Platz mit dem Windsack (am Waldrand gelegen) auch schon zu sehen.
 
-[Wegbeschreibung als PDF herunterladen](/assets/Wegbeschreibung_Hummelflugplatz.pdf)
+[Detaillierte Anfahrtskizze als PDF herunterladen]({{ '/assets/Wegbeschreibung_Hummelflugplatz.pdf' | relative_url }})
 
 ## Besucher und Gastflieger
 
