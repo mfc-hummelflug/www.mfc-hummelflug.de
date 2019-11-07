@@ -12,8 +12,7 @@ gallery:
     title: Grillplatz, Parkplätze, Vorbereitungsfläche, etc.
   - basename: 20180626_151210_resized.jpg
     title: Pilotenstandplatz
-    caption: Wenn die Sonne wieder brennt ... der Pilotenstandplatz liegt im
-      Halbschatten
+    caption: Wenn die Sonne wieder brennt ... der Pilotenstandplatz liegt im Halbschatten
   - basename: 20190806_104257_resized.jpg
     title: Platzordnung muss sein
   - basename: 20190806_105715_resized.jpg
