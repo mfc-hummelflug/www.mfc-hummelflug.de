@@ -8,7 +8,7 @@ layout: page
 Dieses Impressum gilt für alle Internetseiten des oben angegebenen Vereins.
 
 **Adresse:**         | 1. Vorsitzender MfC Berlin e.V.<br><br>**Bernd Petzold**<br>Gäblerstraße 20<br>13086 Berlin
-**Telefon:**         | +49 (030) 44 878 88
+**Telefon:**         | +49 (0)30 44 878 88
 **Email:**           | <hummelflieger@arcor.de>
 **Vereinsregister:** | auf Anfrage
 
