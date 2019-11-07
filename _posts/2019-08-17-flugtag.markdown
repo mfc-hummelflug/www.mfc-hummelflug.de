@@ -1,0 +1,75 @@
+---
+title: Flugtag 2019 / 25 Jahre MFC Hummelflug
+date: 2019-08-17 12:13:00 +02:00
+categories:
+- events
+layout: post
+gallery:
+  path: assets/galleries/events/2019-08-17
+  pictures:
+  - basename: D50_9730.jpg
+    title: Volle Hütte
+  - basename: D50_9137.jpg
+    title: Bonbonabwurf
+  - basename: D50_9156.jpg
+    title: Wer findet die meisten Bonbons?
+  - basename: D50_9176.jpg
+    title: Gut gemacht
+  - basename: D50_9182.jpg
+    title: Viele schöne Modelle waren zu bewundern
+  - basename: D50_9198.jpg
+    title: Unser Jugendwart bei der Nachwuchsförderug
+  - basename: D50_9226.jpg
+    title: Ui, das ist aber mal ein großer Jet
+  - basename: D50_9218.jpg
+    title: Fallspirmspringer Victor
+  - basename: D50_9298.jpg
+    title: Victor unter seiner Startdrohne
+  - basename: D50_9319.jpg
+    title: Victor im Landeanflug
+  - basename: D50_9336.jpg
+    title: Jet in Deutschland-Farben
+  - basename: D50_9352.jpg
+    title: Willkommen Banner
+  - basename: D50_9461.jpg
+    title: Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist das Kraftei.
+  - basename: D50_9489.jpg
+    title: Die Ultimate setzt sauber auf
+  - basename: D50_9562.jpg
+    title: Jet gibt Schub
+  - basename: D50_9234.jpg
+    title: Segler bereit zum F-Schlepp
+  - basename: D50_9739.jpg
+    title: Los geht's
+  - basename: D50_9762.jpg
+    title: Manchmal wollen Segler auch getragen werden.
+---
+
+Anlässlich unseres 25 jährigen Vereinsbestehens fand am 17.08.2019
+unser jährlicher Flugtag statt. Von unseren 85 Mitgliedern (vor 25
+Jahren haben wir mit 5 Modellflugbegeisterten den Verein gegründet)
+waren 32 anwesend. Mit Gästen waren wir 56 Personen und unser Parkplatz
+mit 32 Pkw gut ausgelastet.
+
+Dank der hervorragenden techn.
+Bereitstellung von Steffen und Mirko mit einer Audioanlage, Gasgrill,
+Pavillon und div. zusätzlichen Bänken, war dieser Flugtag mal etwas ganz
+Besonderes. Bei Thüringer Grillwurst, selbst gebackenem Kuchen, Kaffee
+und gekühlten Getränken waren wir gastronomisch ausgezeichnet versorgt.
+Vielen Dank nochmals an Steffen und Mirko.
+
+Wie Ihr den Fotos entnehmen könnt, waren allerlei Fluggeräte in der
+Luft. Nicht alltäglich war der ferngesteuerte Fallschirmspringer Namens
+Victor, den Uwe an seiner Drohne in die Luft geschleppt und oben
+ausklinkte. Ferngesteuert landete er sicher auf unserem Platz.
+
+Die Kinder hatten beim traditionellen Bonbonabwurf ihren Spaß beim
+Einsammeln der Süßigkeiten. Um die anwesenden Männer nicht allzu sehr zu
+frustrieren, regnetet es dann sogar einige Kümmerlinge vom Himmel.
+
+Die ausgelassene Stimmung bei bestem Flugwetter fand dann bei einem
+Tänzchen unter Männern einen würdigen Abschluss. Insgesamt ein sehr
+gelungener Flugtag getreu unserem Motto "Just for Fun". Wir freuen uns
+schon auf das nächste Jahr.
+
+{% include gallery.html gallery=page.gallery %}
