@@ -8,6 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: assets/**/*
+  values:
+    sitemap: false
 motto: In der Natur – Mit der Natur – Für die Natur
 author: HUMMELFLUG Modellflugclub Berlin e.V.
 email: hummelflieger@arcor.de
@@ -16,7 +21,7 @@ description: |-
 
   Interessenten sind immer gern gesehen. Wir helfen beim ersten Start und geben auch kostenlosen Flugunterricht.
 baseurl: "/www.mfc-hummelflug.de"
-url: "https://www.mfc-hummelflug.de"
+url: https://www.mfc-hummelflug.de
 theme: minima
 minima:
   date_format: "%d.%m.%Y"
@@ -28,12 +33,6 @@ header_pages:
 - flying-field.markdown
 - models.markdown
 - calendar.markdown
-defaults:
-  -
-    scope:
-      path:            "assets/**/*"
-    values:
-      sitemap:         false
 responsive_image:
   template: _includes/responsive-image.html
   default_quality: 90
