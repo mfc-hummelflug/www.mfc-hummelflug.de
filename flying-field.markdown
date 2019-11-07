@@ -13,8 +13,16 @@ gallery:
   - basename: 20180626_151210_resized.jpg
     title: Pilotenstandplatz
     caption: Wenn die Sonne wieder brennt ... der Pilotenstandplatz liegt im Halbschatten
+  - basename: 20191107_121359_resized.jpg
+    title: Sitzplätze für Piloten
+    caption: Wenn's mal wieder länger dauert ... (nicht nur) Seglerpiloten dürfen sich
+      auch setzen.
   - basename: 20190806_104257_resized.jpg
     title: Platzordnung muss sein
+  - basename: P1090625.JPG
+    title: Don't drink and fly
+    caption: Die Hexe im Baum ist unser Mahnmal was passiert wenn man versucht mit Alkohol
+      im Blut zu fliegen.
   - basename: 20190806_105715_resized.jpg
     title: Blick über den Platz
     caption: Im Vordergrund ist der Bremsstreifen mit höherem Gras erkennbar.
