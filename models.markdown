@@ -1,6 +1,6 @@
 ---
 title: Modelle
-layout: gallery
+layout: page
 gallery:
   path: assets/galleries/models
   pictures:

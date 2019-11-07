@@ -1,6 +1,6 @@
 ---
 title: Der Verein
-layout: gallery
+layout: page
 title_image: "/assets/wirueberuns.jpg"
 title_image_alt: Wir über uns
 gallery:
