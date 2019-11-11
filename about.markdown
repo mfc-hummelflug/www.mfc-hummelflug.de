@@ -21,7 +21,7 @@ gallery:
     title: Die Blumenwiese im Bremsstreifen
 ---
 
-**Die Hummel**,
+**Die Hummel**,
 es gibt jede Menge Arten dieser Insekten aber nur einen **Hummelflugverein**.
 
 Und das sind wir:
@@ -103,15 +103,15 @@ Am Fangzaun befindet sich ein Nistkasten für Wildbienen. Diese fliegen von Ma�
   <img src="{{ '/assets/mitgliedsbeitrag.jpg' | relative_url }}" alt="Mitgliedsbeitrag">
 </div>
 
-**1. Erwachsene** (Mitglieder ab 18 Jahre)<br>
+**1. Erwachsene** (Mitglieder ab 18 Jahre)<br>
 Jahresbeitrag 130,- €<br>
 plus einmaliger Aufnamebeitrag 100,- €
 
-**2. Lehrlinge, Schüler, Studenten**<br>
+**2. Lehrlinge, Schüler, Studenten**<br>
 Jahresbeitrag 70,- €<br>
 plus einmaliger Aufnahmebeitrag 100,- €
 
-**3. Kinder und Schüler** (Mitglieder unter 15 Jahren)<br>
+**3. Kinder und Schüler** (Mitglieder unter 15 Jahren)<br>
 Jahresbeitrag 60,- €<br>
 kein Aufnahmebeitrag
 

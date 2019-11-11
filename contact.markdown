@@ -4,7 +4,7 @@ layout: page
 title_image: "/assets/kontakt.jpg"
 ---
 
-**1. Vorsitzender des MFC Berlin e.V.**
+**1. Vorsitzender des MFC Berlin e.V.**
 
 Bernd Petzold<br>
 Tel. (030) 448 78 88<br>
