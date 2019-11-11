@@ -2,19 +2,19 @@
 {% assign smallest = resized | sort: 'width' | first %}
 {% capture srcset %}
 {% for i in resized %}
-  {{site.baseurl}}/{{ i.path }} {{ i.width }}w,
+{%- if forloop.first == false -%}, {%- endif -%}{{ site.url | append: site.baseurl | append: '/' | append: i.path }} {{ i.width | append: 'w' }}
 {% endfor %}
 {% endcapture %}
 
 {%- case mode -%}
   {%- when "gallery" -%}
-  <a href="{{ site.baseurl }}/{{ largest.path }}"
+  <a href="{{ site.url | append: site.baseurl | append: '/' | append: largest.path }}"
      data-srcset="{{ srcset | strip_newlines }}" class="image"
   {% if alt %} data-sub-html="<div class='caption'><h4>{{ alt | escape }}</h4>{% if title %}<p>{{ title | escape }}</p>{% endif %}</div>"{% endif %}>
-  <img alt="{{ alt | escape }}" title="{{ title | default: alt | escape }}" src="{{ site.baseurl }}/{{ smallest.path }}" />
+  <img alt="{{ alt | escape }}" title="{{ title | default: alt | escape }}" src="{{ site.url | append: site.baseurl | append: '/' | append: smallest.path }}" />
   </a>
   {%- else -%}
-  <img class="responsive-image" src="{{ site.baseurl }}/{{ largest.path }}" alt="{{ alt | escpae }}" srcset="{{ srcset | strip_newlines }}" />
+  <img class="responsive-image" src="{{ site.url | append: site.baseurl | append: '/' | append: largest.path }}" alt="{{ alt | escpae }}" srcset="{{ srcset | strip_newlines }}" />
   {% if alt %}
   <div class="responsive-image caption">
     <h4>{{ alt | escape }}</h4>
