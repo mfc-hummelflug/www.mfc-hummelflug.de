@@ -7,7 +7,7 @@ gallery:
   - basename: Symphony160.jpeg
     title: OMF Symphony 160
     caption: Christophs OMF 160 Symphony von Erwin Schreiber im Maßstab 1:2,75, 3,90m
-      Spannweite, 3w 140 B4 Motor, Abfluggewicht 23,8kg. Man möchte Einsteigen und
+      Spannweite, 3w 140 B4 Motor, Abfluggewicht 23,8kg. Man möchte einsteigen und
       los fliegen...
   - basename: Symphony160Cockpit.jpeg
     title: Scale Cockpit der Symphony 160
