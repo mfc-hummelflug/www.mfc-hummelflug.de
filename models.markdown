@@ -96,6 +96,10 @@ gallery:
     title: Velox
     caption: Gerd mit seiner Velox aus Holz von Orionmodellbau, Spannweite 2,60m,
       super leicht, fliegt damit wie ein Funflyer, Motor ZDZ
+  - basename: 20200408_064135_k300.jpg
+    title: MIG-17F
+    caption: Thomas' Avios MIG-17F im Tarnmuster der Ägyptischen Luftwaffe um 1957,
+      Spannweite 1,2m, Abfluggewicht 3,2kg, 90mm EDF / 12-Blatt an 6s
 ---
 
 Ob groß oder klein, elektrisch oder Verbrenner, Tragfläche oder Rotor -- wir
