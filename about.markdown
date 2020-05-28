@@ -70,6 +70,11 @@ kein Problem. Wir stellen kostenlos ein vereinseigenes Schulungsmodell zur Verf�
 
 Andreas, unser Jugendwart, hängt Euch den Schülersender um und schon geht es in die Luft. Andreas kann mit dem Lehrersender jederzeit das Modell übernehmen und anschließend wieder sicher landen. Es geht nichts kaputt, Ihr könnt ganz entspannt bleiben.
 
+{% responsive_image_block %}
+  path: 'assets/flugunterricht.jpg'
+  alt: Unser Jugendwart beim Flugunterricht – auch für Erwachsene
+{% endresponsive_image_block %}
+
 Damit müsst Ihr Euch nicht erst ein Modell oder eine Fernsteueranlage kaufen.
 Mit unserem Schulungsmodell haben schon etliche Neulinge das selbstständige Fliegen und Landen (eine der schwierigsten „Kunstflugfiguren“) gelernt und sich anschließend ein Modell nach ihrem Geschmack gekauft.
 
