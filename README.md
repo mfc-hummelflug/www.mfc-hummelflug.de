@@ -1,6 +1,6 @@
 # mfc-hummelflug.de
 
-[![Build Status](https://travis-ci.org/mfc-hummelflug/www.mfc-hummelflug.de.svg?branch=master)](https://travis-ci.org/mfc-hummelflug/www.mfc-hummelflug.de)
+[![Build Status](https://travis-ci.com/mfc-hummelflug/www.mfc-hummelflug.de.svg?branch=master)](https://travis-ci.com/github/mfc-hummelflug/www.mfc-hummelflug.de/builds)
 
 Static site builder: <http://www.mfc-hummelflug.de>
 
