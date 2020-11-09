@@ -24,3 +24,5 @@ Für 2020 sind folgende Termine geplant:
 10.10.2020 10 Uhr: Arbeitseinsatz II (bis ca. 14 Uhr)
 
 23.10.2020 ca. 10:00 bis 12:00: Rasenmähen, kein Flugbetrieb
+
+13.11.2020 ca. 10:00 bis 12:00: Rasenmähen, kein Flugbetrieb
