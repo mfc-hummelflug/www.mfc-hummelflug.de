@@ -26,3 +26,5 @@ Für 2020 sind folgende Termine geplant:
 23.10.2020 ca. 10:00 bis 12:00: Rasenmähen, kein Flugbetrieb
 
 13.11.2020 ca. 10:00 bis 12:00: Rasenmähen, kein Flugbetrieb
+
+18.12.2020 ca. 10:00 bis 12:00: Rasenmähen, kein Flugbetrieb
