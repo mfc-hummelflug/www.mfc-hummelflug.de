@@ -4,7 +4,7 @@ layout: home
 title_image: "/assets/justforfun.png"
 title_image_alt: Hummelflug Just For Fun
 list_title: Aktuelles
-show_post_list: false # temporarily disable showing Posts since all content is too old
+show_post_list: false
 ---
 
 Wir freuen uns über Besuch auf unserem schönen [Flugplatz](flying-field.html) in Schönerlinde.
