@@ -41,3 +41,16 @@ License.)
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Entwicklungsumgebung
+
+* Ruby 2.6.3 (`rbenv install 2.6.3`)
+* ImageMagick 6.x (`brew install imagemagick@6`)
+* Bundler/RubyGems (`bundle install`)
+
+### Bei Problemen mit der RMagick Gem Installation
+
+```
+export PKG_CONFIG_PATH="/usr/local/opt/imagemagick@6/lib/pkgconfig"
+bundle
+```
