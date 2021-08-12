@@ -22,4 +22,6 @@ Für 2021 sind folgende Termine geplant:
 
 04.08.2021 ca. 11 bis 13:00: Rasenmähen, kein Flugbetrieb
 
+21.08.2021 10 bis 14:00: Arbeitseinsatz
+
 11.09.2021 ab 10:30 Flugtag
