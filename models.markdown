@@ -1,6 +1,5 @@
 ---
 title: Modelle
-layout: page
 gallery:
   path: assets/galleries/models
   pictures:
@@ -20,7 +19,7 @@ gallery:
     title: 3D Helis
     caption: Zwei 3D Helis aus Martins Kollektion, links ein klassischer Henseleit
       TDR, Baujahr 2011 mit moderaten 3 kW Antriebsleitung und rechts ein moderner
-      Zenyt von PSG mit 5 kW Powerantrieb, beide elektrisch
+      Zenyt von PSG mit 5 kW Powerantrieb, beide elektrisch.
   - basename: Me262.jpeg
     title: Me-262
     caption: Me-262 mit 3,20m Spannweite, knapp 25kg, 2 Schübeler Impeller mit je
@@ -100,6 +99,7 @@ gallery:
     title: MIG-17F
     caption: Thomas' Avios MIG-17F im Tarnmuster der Ägyptischen Luftwaffe um 1957,
       Spannweite 1,2m, Abfluggewicht 3,2kg, 90mm EDF / 12-Blatt an 6s
+layout: page
 ---
 
 Ob groß oder klein, elektrisch oder Verbrenner, Tragfläche oder Rotor -- wir
