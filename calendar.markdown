@@ -26,4 +26,4 @@ Für 2021 sind folgende Termine geplant:
 
 21.08.2021 10 bis 14:00: Arbeitseinsatz
 
-11.09.2021 ab 10:30 Flugtag
+11.09.2021 ab 10:30 Flugtag 
