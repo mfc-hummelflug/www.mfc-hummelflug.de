@@ -8,7 +8,7 @@ layout: page
 
 Für 2021 sind folgende Termine geplant:
 
-28.04.2021 ca. 11 bis 12:30: Rasenmähen, kein Flugbetrieb
+28.04.2021 ca. 11 bis 12:30: Rasenmähen kein Flugbetrieb
 
 17.05.2021 ca. 10 bis 12:00: Rasenmähen, kein Flugbetrieb
 
