@@ -28,4 +28,6 @@ Für 2021 sind folgende Termine geplant:
 
 01.09.2021 ca. 10:30 bis 13:00: Rasenmähen, kein Flugbetrieb
 
+09.09.2021 ca. 10:30 bis 13:00: Rasenmähen, kein Flugbetrieb
+
 11.09.2021 ab 10:30 Flugtag 
