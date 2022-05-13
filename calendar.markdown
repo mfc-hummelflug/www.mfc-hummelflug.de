@@ -15,3 +15,11 @@ Für 2022 sind folgende Termine geplant:
 09.04.2022 in der Zeit von 10 bis 11:30 Uhr wird die Start- und Landebahn gewalzt. Flugbetrieb nicht möglich.
 
 26.04.2022 11:00 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
+
+12.05.2022 18 Uhr: Mitgliederversammlung
+
+13.05.2022 10:00 bis 12:30 Uhr: Mähtermin. Flugbetrieb nicht möglich.
+
+29.05.2022 ab 10:00 Uhr div. Raketenstarts einer 5. Schulklasse
+
+10.09.2022 Flugtag
