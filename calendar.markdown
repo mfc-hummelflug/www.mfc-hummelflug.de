@@ -20,6 +20,6 @@ Für 2022 sind folgende Termine geplant:
 
 13.05.2022 10:00 bis 12:30 Uhr: Mähtermin. Flugbetrieb nicht möglich.
 
-29.05.2022 ab 10:00 Uhr div. Raketenstarts einer 5. Schulklasse
+24.05.2022 10:00 bis 12:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
 
-10.09.2022 Flugtag
+29.05.2022 ab 10:00 Uhr div. Raketenstarts einer 5. Schulklasse
