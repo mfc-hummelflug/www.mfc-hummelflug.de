@@ -31,3 +31,5 @@ Für 2022 sind folgende Termine geplant:
 30.06.2022 10:00 bis 12:00 Uhr: Rasenmähen und individueller Arbeitseinsatz. Flugbetrieb nicht möglich.
 
 22.07.2022 10:00 bis 12:30 Uhr: Mähtermin. Flugbetrieb nicht möglich.
+
+10.09.2022 ab 11 Uhr: Flugtag
