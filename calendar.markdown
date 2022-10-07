@@ -37,3 +37,5 @@ Für 2022 sind folgende Termine geplant:
 09.09.2022 10:30 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
 
 10.09.2022 ab 11 Uhr: Flugtag
+
+13.10.2022 11:00 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
