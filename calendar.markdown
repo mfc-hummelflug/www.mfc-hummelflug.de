@@ -6,36 +6,6 @@ layout: page
 
 **Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**
 
-Für 2022 sind folgende Termine geplant:
+Für 2023 sind folgende Termine geplant:
 
-26.02.2022 09:00 bis 13:00 Uhr: 1. Arbeitseinsatz  
-
-26.03.2022 10:00 bis 14:00 Uhr: 2. Arbeitseinsatz  
-
-09.04.2022 in der Zeit von 10 bis 11:30 Uhr wird die Start- und Landebahn gewalzt. Flugbetrieb nicht möglich.
-
-26.04.2022 11:00 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-12.05.2022 18 Uhr: Mitgliederversammlung
-
-13.05.2022 10:00 bis 12:30 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-24.05.2022 10:00 bis 12:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-29.05.2022 ab 10:00 Uhr div. Raketenstarts einer 5. Schulklasse
-
-08.06.2022 10:30 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-12.06.2022 11:00 bis ca. 13:00 Uhr: Besuch einer Schulklasse mit Raketenstarts.
-
-30.06.2022 10:00 bis 12:00 Uhr: Rasenmähen und individueller Arbeitseinsatz. Flugbetrieb nicht möglich.
-
-22.07.2022 10:00 bis 12:30 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-01.09.2022 10:30 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-09.09.2022 10:30 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
-
-10.09.2022 ab 11 Uhr: Flugtag
-
-13.10.2022 11:00 bis 13:00 Uhr: Mähtermin. Flugbetrieb nicht möglich.
+06.03.2023, 18 Uhr: Mitgliederversammlung und Vorstandswahl im Gemeindezentrum Schönwalde (16348 Wandlitz) Hauptstr. 38
