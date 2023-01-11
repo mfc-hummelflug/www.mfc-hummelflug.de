@@ -16,8 +16,7 @@ Flugbetrieb mit Modellen ab 2kg oder Flughöhen ab 120m ein
 Kenntnisnachweis erforderlich. Dieser muss auf Verlangen, z.B. Kontrolle
 des Ordnungsamtes nachgewiesen werden.
 
-Der Kenntnisnachweis hat eine Gültigkeit von 5 Jahren und kann beim DMFV
-(https://www.dmfv.aero) erworben werden.
+Der Kenntnisnachweis hat eine Gültigkeit von 5 Jahren und kann beim [DMFV](https://www.dmfv.aero) erworben werden.
 
 
 <script>
