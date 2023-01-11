@@ -11,13 +11,13 @@ Wir freuen uns über Besuch auf unserem schönen [Flugplatz](flying-field.html)
 
 <a class="weatherwidget-io" href="https://forecast7.com/de/52d6513d43/schonerlinde/" data-label_1="Schönerlinde" data-label_2="Wetter" data-days="5" data-font="Helvetica" data-textcolor="#eee" data-lowcolor="#87b0dd">Schönerlinde Wetter</a>
 
-"Entspr. der  Rechtsvorschriften (Luftverkehrsordnung) ist für den
+Entspr. der  Rechtsvorschriften (Luftverkehrsordnung) ist für den
 Flugbetrieb mit Modellen ab 2kg oder Flughöhen ab 120m ein
 Kenntnisnachweis erforderlich. Dieser muss auf Verlangen, z.B. Kontrolle
 des Ordnungsamtes nachgewiesen werden.
 
 Der Kenntnisnachweis hat eine Gültigkeit von 5 Jahren und kann beim DMFV
-(https://www.dmfv.aero) erworben werden."
+(https://www.dmfv.aero) erworben werden.
 
 
 <script>
