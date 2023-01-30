@@ -18,9 +18,9 @@ des Ordnungsamtes nachgewiesen werden.
 
 Der Kenntnisnachweis hat eine Gültigkeit von 5 Jahren und kann beim [DMFV](https://www.dmfv.aero) erworben werden.
 
-Hier ein Beitrag über unseren [Verein] (https://www.hauptstadt.tv/mediathek/36259/Modellflugclub_Berlin_e_V_Hummelflug_lange_Version.html)
+Hier ein Beitrag über unseren [Verein] (https://www.hauptstadt.tv/mediathek/36259/Modellflugclub_Berlin_e_V_Hummelflug_lange_Version.html).
 
-Und hier ein spannender Bericht über unseren letzten [Flugtag] (https://www.hauptstadt.tv/mediathek/36353/Fliegertag_2022.html)
+Und hier ein spannender Bericht über unseren letzten [Flugtag] (https://www.hauptstadt.tv/mediathek/36353/Fliegertag_2022.html).
 
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
