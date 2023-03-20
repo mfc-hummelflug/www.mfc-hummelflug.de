@@ -10,8 +10,8 @@ Für 2023 sind folgende Termine geplant:
 
 06.03.2023, 18 Uhr: Mitgliederversammlung und Vorstandswahl im Gemeindezentrum Schönwalde (16348 Wandlitz) Hauptstr. 38
 
+21.03.2023, 15-17 Uhr: Walzen der Start- und Landebahn. Flugbetrieb nicht möglich.
+
 01.04.2023 von 10-14 Uhr: Arbeitseinsatz
 
 09.04.2023: Ostern bei den Hummelpiloten
-
-21.03.2023, 15-17 Uhr: Walzen der Start- und Landebahn. Flugbetrieb nicht möglich.
