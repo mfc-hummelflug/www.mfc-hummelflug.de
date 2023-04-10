@@ -15,3 +15,5 @@ Für 2023 sind folgende Termine geplant:
 01.04.2023 von 10-14 Uhr: Arbeitseinsatz
 
 09.04.2023: Ostern bei den Hummelpiloten
+
+06.05.2023 von 10-14 Uhr: 2. Arbeitseinsatz (Ersatztermin)
