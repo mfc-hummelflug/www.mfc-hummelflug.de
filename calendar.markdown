@@ -16,4 +16,6 @@ Für 2023 sind folgende Termine geplant:
 
 09.04.2023: Ostern bei den Hummelpiloten
 
+21.04.2023, 11 bis 13 Uhr, 1. Mäheinsatz, kein Flugbetrieb möglich.
+
 06.05.2023 von 10-14 Uhr: 2. Arbeitseinsatz (Ersatztermin)
