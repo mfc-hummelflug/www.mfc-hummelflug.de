@@ -19,3 +19,5 @@ Für 2023 sind folgende Termine geplant:
 21.04.2023, 11 bis 13 Uhr, 1. Mäheinsatz, kein Flugbetrieb möglich.
 
 06.05.2023 von 10-14 Uhr: 2. Arbeitseinsatz (Ersatztermin)
+
+17.05.2023, 11 bis 13 Uhr: Mäheinsatz, kein Flugbetrieb möglich.
