@@ -6,7 +6,11 @@ layout: page
 
 **Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**
 
-Für 2023 sind folgende Termine geplant:
+Für 2023 sind aktuell folgende Termine geplant:
+
+09.09.2023, 11 Uhr  Großes Flugplatzfest, Informationen folgen in Kürze
+
+Das ist bereits bei uns passiert:
 
 06.03.2023, 18 Uhr: Mitgliederversammlung und Vorstandswahl im Gemeindezentrum Schönwalde (16348 Wandlitz) Hauptstr. 38
 
@@ -24,4 +28,4 @@ Für 2023 sind folgende Termine geplant:
 
 17.05.2023, 11 bis 13 Uhr: Mäheinsatz, kein Flugbetrieb möglich
 
-09.09.2023, 11 Uhr  Großes Flugplatzfest, Informationen folgen in Kürze
+
