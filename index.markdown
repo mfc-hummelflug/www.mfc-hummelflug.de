@@ -11,6 +11,8 @@ Wir freuen uns über Besuch auf unserem schönen [Flugplatz](flying-field.html)
 
 <a class="weatherwidget-io" href="https://forecast7.com/de/52d6513d43/schonerlinde/" data-label_1="Schönerlinde" data-label_2="Wetter" data-days="5" data-font="Helvetica" data-textcolor="#eee" data-lowcolor="#87b0dd">Schönerlinde Wetter</a>
 
+++++ UNSER DIESJÄHRIGES FLUGPLATZFEST FINDET AM 9. SEPTEMBER STATT ++++
+
 Entspr. der  Rechtsvorschriften (Luftverkehrsordnung) ist für den
 Flugbetrieb mit Modellen ab 2kg oder Flughöhen ab 120m ein
 Kenntnisnachweis erforderlich. Dieser muss auf Verlangen, z.B. Kontrolle
