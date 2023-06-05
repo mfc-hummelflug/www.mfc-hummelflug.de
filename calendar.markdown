@@ -24,4 +24,4 @@ Für 2023 sind folgende Termine geplant:
 
 17.05.2023, 11 bis 13 Uhr: Mäheinsatz, kein Flugbetrieb möglich
 
-
+09.09.2023, 11 Uhr  Großes Flugplatzfest, Informationen folgen in Kürze
