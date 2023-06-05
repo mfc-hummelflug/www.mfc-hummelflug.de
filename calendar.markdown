@@ -8,7 +8,7 @@ layout: page
 
 Für 2023 sind aktuell folgende Termine geplant:
 
-09.09.2023, 11 Uhr  Großes Flugplatzfest, Informationen folgen in Kürze
+09.09.2023, 11 Uhr  Flugtag, Informationen folgen in Kürze
 
 Das ist bereits bei uns passiert:
 
