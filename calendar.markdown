@@ -8,9 +8,9 @@ layout: page
 
 Für 2023 sind aktuell folgende Termine geplant:
 
-30.06. 11-13:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+30.06.2023 11-13:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
-09.09.2023, 11 Uhr  Flugtag, Informationen folgen in Kürze
+09.09.2023 11 Uhr  Flugtag, Informationen folgen in Kürze
 
 
 Das ist bereits bei uns passiert:
@@ -31,6 +31,6 @@ Das ist bereits bei uns passiert:
 
 17.05.2023, 11 bis 13 Uhr: Mäheinsatz, kein Flugbetrieb möglich
 
-14.06. 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+14.06.2023, 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 
