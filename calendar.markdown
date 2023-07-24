@@ -35,4 +35,6 @@ Das ist bereits bei uns passiert:
 
 30.06.2023 11-13:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
+22.07.2023 11Uhr    Einweihung Solaranlage
+
 
