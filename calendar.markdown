@@ -10,7 +10,7 @@ Für 2023 sind aktuell folgende Termine geplant:
 
 09.09.2023 11 Uhr  Flugtag, Vereinsmitglieder bitte Rundmail beantworten!
 
-*************************************************************************
+__________________________________________________________________________
 
 Das ist bereits bei uns passiert:
 
