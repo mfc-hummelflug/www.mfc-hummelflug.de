@@ -8,6 +8,8 @@ layout: page
 
 Für 2023 sind aktuell folgende Termine geplant:
 
+25.08.2023, 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+
 09.09.2023 11 Uhr  Flugtag, Vereinsmitglieder bitte Rundmail beantworten!
 
 __________________________________________________________________________
