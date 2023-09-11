@@ -11,9 +11,9 @@ Wir freuen uns über Besuch auf unserem schönen [Flugplatz](flying-field.html)
 
 <a class="weatherwidget-io" href="https://forecast7.com/de/52d6513d43/schonerlinde/" data-label_1="Schönerlinde" data-label_2="Wetter" data-days="5" data-font="Helvetica" data-textcolor="#eee" data-lowcolor="#87b0dd">Schönerlinde Wetter</a>
 
-++++ DER FLUGTAG AM 9. SEPTEMBER FÄLLT AUS ++++
 
-Hier ein spannender Bericht über unseren letzten [Flugtag](https://www.hauptstadt.tv/mediathek/36353/Fliegertag_2022.html).
+
+Hier ein spannender Bericht über unseren [Flugtag](https://www.hauptstadt.tv/mediathek/36353/Fliegertag_2022.html) 2022.
 
 Hier ein Beitrag über unseren [Verein](https://www.hauptstadt.tv/mediathek/36259/Modellflugclub_Berlin_e_V_Hummelflug_lange_Version.html).
 
