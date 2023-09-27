@@ -8,13 +8,13 @@ layout: page
 
 Für 2023 sind aktuell folgende Termine geplant:
 
-14.09.2023, 10:00 - 12 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+29.09.2023, 10:30 - 12:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 03.10.2023, Pilotentag zum Beginn des Saisonendes, Anmeldung erforderlich!
 
 
-__________________________________________________________________________
-__________________________________________________________________________
+XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXX
+XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXX
 
 Das ist bereits bei uns passiert:
 
@@ -49,3 +49,5 @@ Das ist bereits bei uns passiert:
 11.08.2023, 12-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 24.08.2023, 10:30 - 13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+
+14.09.2023, 10:00 - 12 Uhr  Mäheinsatz, kein Flugbetrieb möglich
