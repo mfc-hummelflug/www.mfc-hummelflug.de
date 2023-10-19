@@ -6,11 +6,9 @@ layout: page
 
 **Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**
 
-Für 2023 sind aktuell folgende Termine geplant:
+Für 2023 sind aktuell keine Termine mehr geplant. Sorry, Saisonende!
 
-29.09.2023, 10:30 - 12:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
-03.10.2023, Pilotentag zum Beginn des Saisonendes, Anmeldung erforderlich!
 
 
 XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXX
@@ -51,3 +49,7 @@ Das ist bereits bei uns passiert:
 24.08.2023, 10:30 - 13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 14.09.2023, 10:00 - 12 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+
+29.09.2023, 10:30 - 12:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
+
+03.10.2023, Pilotentag zum Beginn des Saisonendes, Anmeldung erforderlich!
