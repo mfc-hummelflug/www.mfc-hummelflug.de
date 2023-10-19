@@ -6,7 +6,9 @@ layout: page
 
 **Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**
 
-Für 2023 sind aktuell keine Termine mehr geplant. Sorry, Saisonende!
+Für 2023 sind aktuell keine Termine mehr geplant. 
+
+Sorry, Saisonende!
 
 
 
