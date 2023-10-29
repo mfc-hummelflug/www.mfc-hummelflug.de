@@ -4,12 +4,9 @@ title_image: "/assets/termine.jpg"
 layout: page
 ---
 
-**Wir möchten Euch hier alle Vereinstermine und weitere interessante Veranstaltungen anbieten.**
+**Hier sind unsere aktuellen Termine:**
 
-Für 2023 sind aktuell keine Termine mehr geplant. 
-
-Sorry, Saisonende!
-
+02.11.2023 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 
 
