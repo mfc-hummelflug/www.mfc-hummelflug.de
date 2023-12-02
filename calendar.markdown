@@ -4,16 +4,14 @@ title_image: "/assets/termine.jpg"
 layout: page
 ---
 
-**Hier sind unsere aktuellen Termine:**
+## Hier sind unsere aktuellen Termine:
 
-02.11.2023 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
-
-
-
+# Saisonende!!
 
 ___
 
 Das ist bereits bei uns passiert:
+-------
 
 06.03.2023, 18 Uhr: Mitgliederversammlung und Vorstandswahl im Gemeindezentrum Schönwalde (16348 Wandlitz) Hauptstr. 38
 
@@ -52,3 +50,5 @@ Das ist bereits bei uns passiert:
 29.09.2023, 10:30 - 12:30 Uhr  Mäheinsatz, kein Flugbetrieb möglich
 
 03.10.2023, Pilotentag zum Beginn des Saisonendes, Anmeldung erforderlich!
+
+02.11.2023 11-13 Uhr  Mäheinsatz, kein Flugbetrieb möglich
