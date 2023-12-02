@@ -6,12 +6,12 @@ layout: page
 
 ## Hier sind unsere aktuellen Termine:
 
-# Saisonende!!
+## Saisonende!!
 
 ___
 
-Das ist bereits bei uns passiert:
--------
+### Das ist bereits bei uns passiert:
+
 
 06.03.2023, 18 Uhr: Mitgliederversammlung und Vorstandswahl im Gemeindezentrum Schönwalde (16348 Wandlitz) Hauptstr. 38
 
